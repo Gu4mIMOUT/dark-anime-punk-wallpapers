@@ -19,7 +19,7 @@ Here you can see a quick preview of the available designs. To download them in f
 
 | Preview (250px) | File | Resolution | Format |
 | :---: | :---: | :---: | :---: |
-| <img src="Wallpapers/lain_wallpaper.png" width="250"> | `lain_wallpaper.png` | 1920x1080 | Lossless PNG |
+| <img src="Wallpapers/lain-wallpaper.png" width="250"> | `lain_wallpaper.png` | 1920x1080 | Lossless PNG |
 | <img src="Wallpapers/wall.png" width="250"> | `wall.png` | 1920x1080 | Lossless PNG |
 
 ---
