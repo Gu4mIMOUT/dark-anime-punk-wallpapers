@@ -15,12 +15,12 @@ Collection of dark anime punk, aesthetic, and arch-hacker themed wallpapers. Opt
 
 ## 📸 Previews
 
-Here you can see a quick preview of the available designs. To download them in full quality without compression (1920x1080 `.png`), browse the `wallpapers/` folder in this repository.
+Here you can see a quick preview of the available designs. To download them in full quality without compression (1920x1080 `.png`), browse the `Wallpapers/` folder in this repository.
 
 | Preview (250px) | File | Resolution | Format |
 | :---: | :---: | :---: | :---: |
-| <img src="wallpapers/cyber_anime_preview.png" width="250"> | `cyber_anime.png` | 1920x1080 | Lossless PNG |
-| <img src="wallpapers/arch_hacker_preview.png" width="250"> | `arch_hacker.png` | 1920x1080 | Lossless PNG |
+| <img src="Wallpapers/lain_wallpaper.png" width="250"> | `lain_wallpaper.png` | 1920x1080 | Lossless PNG |
+| <img src="Wallpapers/wall.png" width="250"> | `wall.png` | 1920x1080 | Lossless PNG |
 
 ---
 
